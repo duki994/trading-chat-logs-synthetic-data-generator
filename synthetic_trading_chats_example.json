@@ -1,0 +1,708 @@
+{
+  "chats": [
+    {
+      "timestamp": "2024-01-15T08:21:41",
+      "trader": "trader1",
+      "ticker": "UNH",
+      "price": 166.98,
+      "volume": 378131,
+      "order_flow": {
+        "msgw_id": "MSGW_480c3770-50d2-485f-a94e-b49ac6016bee",
+        "pattern": "iceberg",
+        "description": "Hidden liquidity",
+        "size": 15602,
+        "exchanges": [
+          "NYSE",
+          "IEX",
+          "NASDAQ"
+        ],
+        "order_type": "limit",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": false,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682903"
+      }
+    },
+    {
+      "timestamp": "2024-01-31T02:57:38",
+      "trader": "mm1",
+      "ticker": "KR",
+      "price": 464.71,
+      "volume": 411014,
+      "order_flow": {
+        "msgw_id": "MSGW_232d413e-4dfc-4a89-a1a8-6157436ae7ab",
+        "pattern": "twap",
+        "description": "Time-weighted execution",
+        "size": 2715,
+        "exchanges": [
+          "IEX"
+        ],
+        "order_type": "dark_pool",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682620"
+      }
+    },
+    {
+      "timestamp": "2024-02-01T01:48:32",
+      "trader": "pm2",
+      "ticker": "BMY",
+      "price": 276.86,
+      "volume": 327252,
+      "order_flow": {
+        "msgw_id": "MSGW_aef514c3-f95c-43b3-8877-8d46b14f0e90",
+        "pattern": "twap",
+        "description": "Time-weighted execution",
+        "size": 2155,
+        "exchanges": [
+          "IEX"
+        ],
+        "order_type": "limit",
+        "mifid_fields": {
+          "trading_capacity": "MATCH",
+          "liquidity_provision": false,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682665"
+      }
+    },
+    {
+      "timestamp": "2024-02-20T10:37:29",
+      "trader": "trader7",
+      "ticker": "COST",
+      "price": 395.38,
+      "volume": 42684,
+      "order_flow": {
+        "msgw_id": "MSGW_07440eb5-92c3-4257-a948-c28f5b2262b0",
+        "pattern": "block",
+        "description": "Large block trade",
+        "size": 73804,
+        "exchanges": [
+          "NASDAQ"
+        ],
+        "order_type": "market",
+        "mifid_fields": {
+          "trading_capacity": "DEAL",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682892"
+      }
+    },
+    {
+      "timestamp": "2024-03-07T23:43:59",
+      "trader": "trader3",
+      "ticker": "WMT",
+      "price": 348.02,
+      "volume": 21391,
+      "order_flow": {
+        "msgw_id": "MSGW_ba6700de-d223-466d-8ed3-8ef47f9b62d5",
+        "pattern": "block",
+        "description": "Large block trade",
+        "size": 74998,
+        "exchanges": [
+          "NASDAQ"
+        ],
+        "order_type": "market",
+        "mifid_fields": {
+          "trading_capacity": "MATCH",
+          "liquidity_provision": false,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682734"
+      }
+    },
+    {
+      "timestamp": "2024-03-11T01:51:22",
+      "trader": "analyst4",
+      "ticker": "MRK",
+      "price": 251.2,
+      "volume": 965933,
+      "order_flow": {
+        "msgw_id": "MSGW_437bfe82-0752-4c2b-a18a-06238a8884c5",
+        "pattern": "dark",
+        "description": "Dark pool execution",
+        "size": 29909,
+        "exchanges": [
+          "GS_SIGMA",
+          "MS_POOL"
+        ],
+        "order_type": "limit",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": true,
+          "dma_flag": true
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682822"
+      }
+    },
+    {
+      "timestamp": "2024-04-11T11:18:09",
+      "trader": "pm2",
+      "ticker": "CSCO",
+      "price": 122.31,
+      "volume": 190916,
+      "order_flow": {
+        "msgw_id": "MSGW_041abb22-f5c8-450b-a3aa-df3534515cd3",
+        "pattern": "iceberg",
+        "description": "Hidden liquidity",
+        "size": 14125,
+        "exchanges": [
+          "NYSE",
+          "NASDAQ"
+        ],
+        "order_type": "market",
+        "mifid_fields": {
+          "trading_capacity": "DEAL",
+          "liquidity_provision": false,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682857"
+      }
+    },
+    {
+      "timestamp": "2024-04-13T14:03:17",
+      "trader": "trader9",
+      "ticker": "MS",
+      "price": 116.76,
+      "volume": 9354,
+      "order_flow": {
+        "msgw_id": "MSGW_32f7625c-28aa-48b9-b492-80ae421f4099",
+        "pattern": "peg",
+        "description": "Pegged to VWAP",
+        "size": 1176,
+        "exchanges": [
+          "NASDAQ",
+          "ARCA"
+        ],
+        "order_type": "limit",
+        "mifid_fields": {
+          "trading_capacity": "MATCH",
+          "liquidity_provision": false,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682915"
+      }
+    },
+    {
+      "timestamp": "2024-05-12T13:31:32",
+      "trader": "trader7",
+      "ticker": "BLK",
+      "price": 454.4,
+      "volume": 585170,
+      "order_flow": {
+        "msgw_id": "MSGW_0a8f0f56-f1d5-45ff-be04-3b30083c3613",
+        "pattern": "peg",
+        "description": "Pegged to VWAP",
+        "size": 1020,
+        "exchanges": [
+          "ARCA",
+          "NASDAQ",
+          "NYSE"
+        ],
+        "order_type": "limit",
+        "mifid_fields": {
+          "trading_capacity": "DEAL",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682759"
+      }
+    },
+    {
+      "timestamp": "2024-06-04T12:54:00",
+      "trader": "trader2",
+      "ticker": "JPM",
+      "price": 338.46,
+      "volume": 369122,
+      "order_flow": {
+        "msgw_id": "MSGW_9b0640a6-edf3-496f-9da9-b4b6e1db3d3d",
+        "pattern": "twap",
+        "description": "Time-weighted execution",
+        "size": 3337,
+        "exchanges": [
+          "NASDAQ",
+          "NYSE"
+        ],
+        "order_type": "dark_pool",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682834"
+      }
+    },
+    {
+      "timestamp": "2024-07-17T18:49:08",
+      "trader": "trader7",
+      "ticker": "AMGN",
+      "price": 398.17,
+      "volume": 858530,
+      "order_flow": {
+        "msgw_id": "MSGW_37651432-0cb1-4015-9801-782c53b35ccd",
+        "pattern": "dark",
+        "description": "Dark pool execution",
+        "size": 18287,
+        "exchanges": [
+          "MS_POOL",
+          "JPM_POOL",
+          "GS_SIGMA"
+        ],
+        "order_type": "stop",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": false,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682782"
+      }
+    },
+    {
+      "timestamp": "2024-07-22T10:40:32",
+      "trader": "pm3",
+      "ticker": "OXY",
+      "price": 442.86,
+      "volume": 57796,
+      "order_flow": {
+        "msgw_id": "MSGW_d075a7e1-08b8-40b1-b1d0-aeef2694498b",
+        "pattern": "twap",
+        "description": "Time-weighted execution",
+        "size": 3172,
+        "exchanges": [
+          "IEX",
+          "NYSE",
+          "NASDAQ"
+        ],
+        "order_type": "limit",
+        "mifid_fields": {
+          "trading_capacity": "DEAL",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682868"
+      }
+    },
+    {
+      "timestamp": "2024-07-25T22:22:31",
+      "trader": "trader3",
+      "ticker": "AXP",
+      "price": 202.01,
+      "volume": 908383,
+      "order_flow": {
+        "msgw_id": "MSGW_f1d185cb-9431-46b5-be13-a0c296043dbd",
+        "pattern": "peg",
+        "description": "Pegged to VWAP",
+        "size": 1438,
+        "exchanges": [
+          "NASDAQ"
+        ],
+        "order_type": "stop",
+        "mifid_fields": {
+          "trading_capacity": "MATCH",
+          "liquidity_provision": false,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682926"
+      }
+    },
+    {
+      "timestamp": "2024-07-27T03:31:13",
+      "trader": "trader10",
+      "ticker": "LOW",
+      "price": 192.82,
+      "volume": 537498,
+      "order_flow": {
+        "msgw_id": "MSGW_d578f3ce-6f2d-4fcd-b8a1-033d227f5b2c",
+        "pattern": "sweep",
+        "description": "Multiple exchange sweep",
+        "size": 8061,
+        "exchanges": [
+          "BATS",
+          "ARCA"
+        ],
+        "order_type": "dark_pool",
+        "mifid_fields": {
+          "trading_capacity": "MATCH",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682962"
+      }
+    },
+    {
+      "timestamp": "2024-08-11T22:20:03",
+      "trader": "trader5",
+      "ticker": "MS",
+      "price": 170.18,
+      "volume": 112055,
+      "order_flow": {
+        "msgw_id": "MSGW_8e048bf2-f246-4d23-be33-d6bbdf9d8fc5",
+        "pattern": "dark",
+        "description": "Dark pool execution",
+        "size": 22429,
+        "exchanges": [
+          "JPM_POOL"
+        ],
+        "order_type": "dark_pool",
+        "mifid_fields": {
+          "trading_capacity": "MATCH",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682950"
+      }
+    },
+    {
+      "timestamp": "2024-09-20T22:05:43",
+      "trader": "pm3",
+      "ticker": "DHR",
+      "price": 406.16,
+      "volume": 952653,
+      "order_flow": {
+        "msgw_id": "MSGW_7b499b72-39e4-49c1-9ea0-f4ea5c3d8635",
+        "pattern": "close",
+        "description": "Market on close",
+        "size": 6201,
+        "exchanges": [
+          "NASDAQ",
+          "NYSE"
+        ],
+        "order_type": "market",
+        "mifid_fields": {
+          "trading_capacity": "MATCH",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682687"
+      }
+    },
+    {
+      "timestamp": "2024-10-04T04:49:56",
+      "trader": "analyst5",
+      "ticker": "AMD",
+      "price": 445.04,
+      "volume": 465877,
+      "order_flow": {
+        "msgw_id": "MSGW_18e670e1-fa5b-4219-b426-994c004da0be",
+        "pattern": "sweep",
+        "description": "Multiple exchange sweep",
+        "size": 9395,
+        "exchanges": [
+          "IEX",
+          "BATS",
+          "NASDAQ"
+        ],
+        "order_type": "stop",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682702"
+      }
+    },
+    {
+      "timestamp": "2024-10-06T21:02:23",
+      "trader": "algo_trader1",
+      "ticker": "EBAY",
+      "price": 428.08,
+      "volume": 5999,
+      "order_flow": {
+        "msgw_id": "MSGW_e4ae9099-4c0b-4477-a3d3-2f58b5528f7e",
+        "pattern": "peg",
+        "description": "Pegged to VWAP",
+        "size": 1876,
+        "exchanges": [
+          "ARCA"
+        ],
+        "order_type": "block",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": true,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682746"
+      }
+    },
+    {
+      "timestamp": "2024-10-16T16:08:45",
+      "trader": "trader5",
+      "ticker": "PSX",
+      "price": 245.23,
+      "volume": 738774,
+      "order_flow": {
+        "msgw_id": "MSGW_0f598395-2abe-4675-8e0a-89da0b37a30f",
+        "pattern": "close",
+        "description": "Market on close",
+        "size": 6308,
+        "exchanges": [
+          "NYSE"
+        ],
+        "order_type": "market",
+        "mifid_fields": {
+          "trading_capacity": "MATCH",
+          "liquidity_provision": false,
+          "dma_flag": true
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682793"
+      }
+    },
+    {
+      "timestamp": "2024-10-18T19:54:49",
+      "trader": "algo_trader3",
+      "ticker": "CSCO",
+      "price": 293.87,
+      "volume": 149172,
+      "order_flow": {
+        "msgw_id": "MSGW_8d4947f1-d730-4c68-9855-e098adf64017",
+        "pattern": "twap",
+        "description": "Time-weighted execution",
+        "size": 2926,
+        "exchanges": [
+          "IEX",
+          "NYSE"
+        ],
+        "order_type": "market",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": false,
+          "dma_flag": true
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682771"
+      }
+    },
+    {
+      "timestamp": "2024-10-21T20:17:34",
+      "trader": "mm3",
+      "ticker": "C",
+      "price": 114.15,
+      "volume": 555387,
+      "order_flow": {
+        "msgw_id": "MSGW_ba309d24-60ea-4d5e-95d4-4739496064ac",
+        "pattern": "sweep",
+        "description": "Multiple exchange sweep",
+        "size": 7438,
+        "exchanges": [
+          "BATS",
+          "ARCA",
+          "NYSE",
+          "NASDAQ",
+          "IEX"
+        ],
+        "order_type": "dark_pool",
+        "mifid_fields": {
+          "trading_capacity": "DEAL",
+          "liquidity_provision": false,
+          "dma_flag": true
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682937"
+      }
+    },
+    {
+      "timestamp": "2024-10-25T03:12:12",
+      "trader": "trader9",
+      "ticker": "JPM",
+      "price": 108.22,
+      "volume": 649438,
+      "order_flow": {
+        "msgw_id": "MSGW_3cb0d10a-717f-42c1-9982-94b5144f9cd4",
+        "pattern": "iceberg",
+        "description": "Hidden liquidity",
+        "size": 13806,
+        "exchanges": [
+          "IEX",
+          "NASDAQ",
+          "NYSE"
+        ],
+        "order_type": "limit",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": false,
+          "dma_flag": true
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682807"
+      }
+    },
+    {
+      "timestamp": "2024-10-27T13:37:41",
+      "trader": "trader2",
+      "ticker": "EOG",
+      "price": 249.08,
+      "volume": 498451,
+      "order_flow": {
+        "msgw_id": "MSGW_34a6565f-ee50-4d4e-9680-5f0ae3e68a73",
+        "pattern": "block",
+        "description": "Large block trade",
+        "size": 61030,
+        "exchanges": [
+          "NASDAQ"
+        ],
+        "order_type": "market",
+        "mifid_fields": {
+          "trading_capacity": "DEAL",
+          "liquidity_provision": true,
+          "dma_flag": true
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682881"
+      }
+    },
+    {
+      "timestamp": "2024-12-06T03:28:41",
+      "trader": "trader6",
+      "ticker": "KR",
+      "price": 447.52,
+      "volume": 572540,
+      "order_flow": {
+        "msgw_id": "MSGW_6b9599c0-48de-4ef4-9f14-c811e5083f7c",
+        "pattern": "iceberg",
+        "description": "Hidden liquidity",
+        "size": 15710,
+        "exchanges": [
+          "IEX",
+          "NYSE"
+        ],
+        "order_type": "stop",
+        "mifid_fields": {
+          "trading_capacity": "AOTC",
+          "liquidity_provision": false,
+          "dma_flag": false
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682847"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T11:40:11",
+      "trader": "trader4",
+      "ticker": "MS",
+      "price": 427.86,
+      "volume": 637922,
+      "order_flow": {
+        "msgw_id": "MSGW_8d7a79fb-67bb-41a1-b853-3d11445910a1",
+        "pattern": "close",
+        "description": "Market on close",
+        "size": 8603,
+        "exchanges": [
+          "NASDAQ"
+        ],
+        "order_type": "dark_pool",
+        "mifid_fields": {
+          "trading_capacity": "DEAL",
+          "liquidity_provision": false,
+          "dma_flag": true
+        }
+      },
+      "regulatory": {
+        "flags": 0,
+        "alerts": [],
+        "timestamp": "2025-01-23T14:44:45.682720"
+      }
+    }
+  ],
+  "metadata": {
+    "generated": "2025-01-23T14:44:45.683416",
+    "version": "2.1",
+    "num_entries": 25
+  }
+}
