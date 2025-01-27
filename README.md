@@ -9,3 +9,4 @@ Run run.py CLI commands:
 
 First argument - number of entries to generate
 Second argument - file name prefix
+
