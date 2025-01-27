@@ -1,10 +1,11 @@
 ## Requirements
-- Python 3.13+ (should work with 3.11+ too)
+- Python 3.12+ (should work with 3.10+ too)
+
 
 
 ### How to run
-- Open `run.py` file.
-- Adjust parameters, file names and amount of trade chats to generate
-- (Optional) Adjust and modify parameters in `tradingConfig.py` file
-- Run `run.py` file
-- Use generated JSON
+Run run.py CLI commands:
+- python run.py 200000 file_name_prefix
+
+First argument - number of entries to generate
+Second argument - file name prefix
